@@ -1,0 +1,7 @@
+{
+  "name": "Vendée Holiday",
+  "description": "A modern, bilingual holiday rental platform for the Vendée region of France, featuring interactive calendars, property management, and localized travel guides.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
